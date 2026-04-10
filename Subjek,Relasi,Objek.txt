@@ -1,0 +1,19 @@
+Subjek,Relasi,Objek
+Mahasiswa,Mengambil,Matkul
+Dosen,Mengajar,Matkul
+Rafi,Is-a,Mahasiswa
+Rafi,Mengambil,Kecerdasan Buatan
+Rafi,Diajar Oleh,Ali
+Rafi,Kuliah di,UNUSIDA
+Rafi,Jurusan,Informatika
+Rafi,Angkatan,2024
+Rafi,Kelas,IF24B
+Ali,Is-a,Dosen
+Ali,Mengajar,Kecerdasan Buatan
+Ali,Mengajar,Rafi
+Ali,Gelar,M.Kom.
+Ali,Prodi,Informatika
+Ali,NIDN,12345
+Kecerdasan Buatan,Is-a,Matkul
+Kecerdasan Buatan,Ruangan,R404
+Kecerdasan Buatan,Jadwal,17.50
